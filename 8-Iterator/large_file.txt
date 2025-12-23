@@ -1,0 +1,11 @@
+Artificial Intelligence (AI) is about creating machines and programs that can do tasks that usually need human thinking, like learning, recognising patterns, making decisions, and solving problems.
+We see it in daily life through things like voice assistants, map directions, and online suggestions.
+One big benefit of AI is that it works fast and accurately. 
+It can handle a lot of information and help make smarter choices in areas like health, learning, and farming.
+For example, it helps doctors find diseases early and helps farmers check crops and predict weather.
+But there are also worries. 
+Some fear that machines may take jobs, leading to unemployment. 
+Others worry about their personal information being used without permission.
+There’s also a risk of misuse if there are no rules in place.
+Even with these concerns, AI can make life easier by helping with tasks that are too hard, risky, or slow for people.
+To make sure it’s helpful, clear rules and careful use are important. If used the right way, machines can continue to support people and make life better, while keeping human needs and values first.

@@ -1,0 +1,3 @@
+2025-10-19 06:38:37-appLogger-DEBUG-Adding 5 and 3 and returning the result:8
+2025-10-19 06:38:37-appLogger-DEBUG-Dividing 66 by 3 and returning the result:22.0
+2025-10-19 06:38:37-appLogger-ERROR-Division by zero is not allowed

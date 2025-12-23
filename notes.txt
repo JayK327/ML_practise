@@ -1,0 +1,6 @@
+conda create -p venv python==3.12     //venv is env name
+conda activate venv/      //To activate the env
+python app.py     //run a python file named app.py
+
+pip install ipykernel    //Need to run jupiter notebook:Provides kernel to jupiter notebook
+pip install numpy

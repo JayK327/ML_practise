@@ -1,0 +1,14 @@
+Multithreading:
+---Great for I/O-bound tasks, but not effective for CPU-bound tasks because of the GIL.
+---In CPU-bound operations, threading won't provide parallelism on multiple CPU cores.
+
+Multiprocessing:
+---Ideal for CPU-bound tasks like factorial computation, matrix operations, image processing, etc.
+---Bypasses the GIL and runs each task in a separate process, taking advantage of multi-core CPUs.
+
+The Global Interpreter Lock (GIL):
+In Python (especially with CPython, which is the most commonly used implementation of Python),
+there’s a mechanism called the Global Interpreter Lock (GIL).
+The GIL essentially allows only one thread to execute Python bytecode at a time, even on multi-core machines.
+This means that even if you're using multiple threads, only one thread can be executing Python code at any given moment.
+The GIL is designed for thread safety, but it also limits concurrency, especially in CPU-bound tasks.
